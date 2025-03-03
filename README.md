@@ -5,6 +5,7 @@ Prazer! me chamo Ruan Augusto Alves, tenho 17 anos atualmente e realizo um curso
 Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre o desenvolvimento fullstack.
 
 <h3 align="center">📱 Redes Sociais</h3>
+
 ###
 
 <div align="center">
@@ -17,6 +18,7 @@ Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre
 </div>
 
 <h3 align="center">📝 Status-Recentes </h3>
+
 ###
 
 <div align="center">
