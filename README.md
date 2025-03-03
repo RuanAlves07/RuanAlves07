@@ -5,7 +5,7 @@ Prazer! me chamo Ruan Augusto Alves, tenho 17 anos atualmente e realizo um curso
 Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre o desenvolvimento Fullstack.
 
 
-<h4 align="center">📌 Linguagens & Métodos </h4>
+<h3 align="center">📌 Linguagens & Métodos </h3>
 
 ##
 
@@ -20,7 +20,7 @@ Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<h3 align="center">📝 Status Recentes </h3>
+<h3 align="center">📝 Status </h3>
 
 ##
 
