@@ -1,6 +1,6 @@
 ## 👨‍💻 Bem vindo!
 
-Prazer! me chamo Ruan Augusto Alves, tenho 17 anos atualmente e realizo um curso técnico de Analise e Desenvolvimento de sistemas.
+Prazer! Me chamo Ruan Augusto Alves, tenho 17 anos atualmente e realizo um curso técnico de Analise e Desenvolvimento de sistemas.
 
 Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre desenvolvimento Fullstack.
 
