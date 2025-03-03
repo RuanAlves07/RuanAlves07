@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem vindo!
 
-<!--
-**RuanAlves07/RuanAlves07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer! me chamo Ruan Augusto Alves, tenho 17 anos atualmente e realizo um curso técnico de Analise e Desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
+Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre o desenvolvimento fullstack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">👤 Redes Sociais</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ruan-augusto-alves-4b67512a4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ruan.august__/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
