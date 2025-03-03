@@ -18,6 +18,9 @@ Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre
   </a>
 </div>
 
+###
+###
+
 <h3 align="center">📝 Status Recentes </h3>
 
 ##
