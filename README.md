@@ -4,7 +4,7 @@ Prazer! me chamo Ruan Augusto Alves, tenho 17 anos atualmente e realizo um curso
 
 Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre o desenvolvimento fullstack.
 
-<h3 align="center">👤 Redes Sociais</h3>
+<h3 align="center">📱 Redes Sociais</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ruan-augusto-alves-4b67512a4/" target="_blank">
@@ -14,4 +14,9 @@ Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neoxepa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neoxepa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="100" alt="languages graph"  />
+</div
 
