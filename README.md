@@ -1,4 +1,4 @@
-## Bem vindo!
+## 👨‍💻 Bem vindo!
 
 Prazer! me chamo Ruan Augusto Alves, tenho 17 anos atualmente e realizo um curso técnico de Analise e Desenvolvimento de sistemas.
 
@@ -19,7 +19,7 @@ Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre
   </a>
 </div>
 
-<h3 align="center">📝 Status-Recentes </h3>
+<h3 align="center">📝 Status Recentes </h3>
 
 ##
 
