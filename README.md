@@ -19,8 +19,7 @@ Com aprendizados atualmente em Java e Python, sigo com o interesse também sobre
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="html logo"/>
-  <img width="12"/>
+
 </div>
 
 <h3 align="center">📝 Status </h3>
