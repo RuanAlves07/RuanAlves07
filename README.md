@@ -1,8 +1,6 @@
 # 👨‍💻 Bem vindo!
 
-Prazer! Me chamo **Ruan Augusto Alves**, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**. Apaixonado por código limpo, café e bugs que desaparecem sozinhos (raramente acontece 😄).
-
-Atualmente exploro o universo do desenvolvimento com **Java** e **Python**, com interesse crescente em **Fullstack Development**. Meu objetivo? Construir soluções que façam sentido e que eu não precise debugar às 3 da manhã.
+Prazer! Me chamo **Ruan Augusto Alves**, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**. Apaixonado por café e bugs que desaparecem sozinhos de formas magicas.
 
 ---
 
