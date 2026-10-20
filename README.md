@@ -38,11 +38,6 @@ Prazer! Me chamo **Ruan Augusto Alves**, tenho 19 anos e sou estudante de **Aná
 
 </div>
 
----
-
-
-
-</div>
 
 ---
 
