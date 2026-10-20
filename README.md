@@ -1,6 +1,6 @@
 # 👨‍💻 Bem vindo!
 
-Prazer! Me chamo **Ruan Augusto Alves**, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**, atuando na área de infraestrutura. Levemente apegado por cafés rotineiros e no meu local favorito, 127.0.0.1
+Prazer! Me chamo **Ruan Augusto Alves**, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**, atuando na área de infraestrutura. Levemente apegado por cafés rotineiros e no meu local favorito, 127.0.0.1...
 ---
 
 ## 🛠️ Tech Stack
