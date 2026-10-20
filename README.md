@@ -1,7 +1,6 @@
 # 👨‍💻 Bem vindo!
 
-Prazer! Me chamo **Ruan Augusto Alves**, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**. Apaixonado por café e bugs que desaparecem sozinhos de formas magicas.
-
+Prazer! Me chamo **Ruan Augusto Alves**, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**, atuando na área de infraestrutura. Levemente apegado por cafés rotineiros e no meu local favorito, 127.0.0.1
 ---
 
 ## 🛠️ Tech Stack
@@ -28,8 +27,6 @@ Prazer! Me chamo **Ruan Augusto Alves**, tenho 18 anos e sou estudante de **Aná
 
 </div>
 
-### 🎯 Em Aprendizado
-- **React** - Próxima missão: dominar hooks e state management
 
 ---
 
@@ -51,6 +48,6 @@ Prazer! Me chamo **Ruan Augusto Alves**, tenho 18 anos e sou estudante de **Aná
 
 <div align="center">
 
-  > *"Qualquer código que funciona na primeira tentativa é suspeito"* 👀
+  > *"There is no place like 127.0.0.1 ☕"* 
 
 </div>
