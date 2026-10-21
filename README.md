@@ -43,6 +43,6 @@ Prazer! Me chamo **Ruan Augusto Alves**, tenho 19 anos e sou estudante de **Aná
 
 <div align="center">
 
-  > *"There is no place like 127.0.0.1 ☕"* 
+ *"There is no place like 127.0.0.1"* 
 
 </div>
